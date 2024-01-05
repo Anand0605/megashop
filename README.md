@@ -1,6 +1,6 @@
-# Attire
+# emegashop
 
-[Attire](https://emegashop.netlify.app/) - An e-commerce website made with ReactJS.
+[emegashop](https://emegashop.netlify.app/) - An e-commerce website made with ReactJS.
 
 
 
