@@ -33,7 +33,7 @@ export const NavBar = () => {
       </div>
       <div className="nav">
         <div className="navbar">
-          <img src={logo} alt="logo" onClick={() => navigate("/")} />
+        <p style={{color:'pink', fontFamily:'sans-serif'}}>emegashop</p>
           <div className="nav-options">
             <p>
               <NavLink style={activeStyle} to="/">
