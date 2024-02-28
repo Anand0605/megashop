@@ -33,7 +33,7 @@ export const NavBar = () => {
       </div>
       <div className="nav">
         <div className="navbar">
-        <p style={{color:'pink', fontFamily:'sans-serif'}}>emegashop</p>
+        <p style={{color:'pink', fontFamily:'sans-serif'}}>E-megashop</p>
           <div className="nav-options">
             <p>
               <NavLink style={activeStyle} to="/">
